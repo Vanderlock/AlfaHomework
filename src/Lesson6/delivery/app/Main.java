@@ -17,7 +17,7 @@ public class Main {
                 "п. Юрьево, ул. Вишневая, д. 5",
                 1.8,
                 "CN987654321RU",
-                true  // требует осторожного обращения
+                true
         );
 
         Parcel expressParcel = new ExpressParcel(
